@@ -1,13 +1,13 @@
 [
-{"name":"New Year's Day","date":"2022-01-01","day":"Saturday","observance":"2022-01-01","observance_day":"Saturday"},
-{"name":"Chinese New Year - first day","date":"2022-02-01","day":"Tuesday","observance":"2022-02-01","observance_day":"Tuesday"},
-{"name":"Chinese New Year - second day","date":"2022-02-02","day":"Wednesday","observance":"2022-02-02","observance_day":"Wednesday"},
-{"name":"Good Friday","date":"2022-04-15","day":"Friday","observance":"2022-04-15","observance_day":"Friday"},
-{"name":"Labour Day","date":"2022-05-01","day":"Sunday","observance":"2022-05-02","observance_day":"Monday"},
-{"name":"Hari Raya Puasa","date":"2022-05-03","day":"Tuesday","observance":"2022-05-03","observance_day":"Tuesday"},
-{"name":"Vesak Day","date":"2022-05-15","day":"Sunday","observance":"2022-05-16","observance_day":"Monday"},
-{"name":"Hari Raya Haji","date":"2022-07-10","day":"Sunday","observance":"2022-07-11","observance_day":"Monday"},
-{"name":"National Day","date":"2022-08-09","day":"Tuesday","observance":"2022-08-09","observance_day":"Tuesday"},
-{"name":"Deepavali","date":"2022-10-24","day":"Monday","observance":"2022-10-24","observance_day":"Monday"},
-{"name":"Christmas Day","date":"2022-12-25","day":"Sunday","observance":"2022-12-26","observance_day":"Monday"}
+{"name":"New Year's Day","year":"2022","date":"2022-01-01","day":"Saturday","observance":"2022-01-01","observance_day":"Saturday"},
+{"name":"Chinese New Year - first day","year":"2022","date":"2022-02-01","day":"Tuesday","observance":"2022-02-01","observance_day":"Tuesday"},
+{"name":"Chinese New Year - second day","year":"2022","date":"2022-02-02","day":"Wednesday","observance":"2022-02-02","observance_day":"Wednesday"},
+{"name":"Good Friday","year":"2022","date":"2022-04-15","day":"Friday","observance":"2022-04-15","observance_day":"Friday"},
+{"name":"Labour Day","year":"2022","date":"2022-05-01","day":"Sunday","observance":"2022-05-02","observance_day":"Monday"},
+{"name":"Hari Raya Puasa","year":"2022","date":"2022-05-03","day":"Tuesday","observance":"2022-05-03","observance_day":"Tuesday"},
+{"name":"Vesak Day","year":"2022","date":"2022-05-15","day":"Sunday","observance":"2022-05-16","observance_day":"Monday"},
+{"name":"Hari Raya Haji","year":"2022","date":"2022-07-10","day":"Sunday","observance":"2022-07-11","observance_day":"Monday"},
+{"name":"National Day","year":"2022","date":"2022-08-09","day":"Tuesday","observance":"2022-08-09","observance_day":"Tuesday"},
+{"name":"Deepavali","year":"2022","date":"2022-10-24","day":"Monday","observance":"2022-10-24","observance_day":"Monday"},
+{"name":"Christmas Day","year":"2022","date":"2022-12-25","day":"Sunday","observance":"2022-12-26","observance_day":"Monday"}
 ]
