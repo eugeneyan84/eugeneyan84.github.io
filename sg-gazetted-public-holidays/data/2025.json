@@ -1,0 +1,90 @@
+[
+  {
+    "name": "New Year's Day",
+    "year": "2025",
+    "date": "2025-01-01",
+    "original_day": "Wednesday",
+    "observance": "2025-01-01",
+    "observance_day": "Wednesday"
+  },
+  {
+    "name": "Chinese New Year - first day",
+    "year": "2025",
+    "date": "2025-01-29",
+    "original_day": "Wednesday",
+    "observance": "2025-01-29",
+    "observance_day": "Wednesday"
+  },
+  {
+    "name": "Chinese New Year - second day",
+    "year": "2025",
+    "date": "2025-01-30",
+    "original_day": "Thursday",
+    "observance": "2025-01-30",
+    "observance_day": "Thursday"
+  },
+  {
+    "name": "Hari Raya Puasa",
+    "year": "2025",
+    "date": "2025-03-31",
+    "original_day": "Monday",
+    "observance": "2025-03-31",
+    "observance_day": "Monday"
+  },
+  {
+    "name": "Good Friday",
+    "year": "2025",
+    "date": "2025-04-18",
+    "original_day": "Friday",
+    "observance": "2025-04-18",
+    "observance_day": "Friday"
+  },
+  {
+    "name": "Labour Day",
+    "year": "2025",
+    "date": "2025-05-01",
+    "original_day": "Thursday",
+    "observance": "2025-05-01",
+    "observance_day": "Thursday"
+  },
+  {
+    "name": "Vesak Day",
+    "year": "2025",
+    "date": "2025-05-12",
+    "original_day": "Monday",
+    "observance": "2025-05-12",
+    "observance_day": "Monday"
+  },
+  {
+    "name": "Hari Raya Haji",
+    "year": "2025",
+    "date": "2025-06-07",
+    "original_day": "Saturday",
+    "observance": "2025-06-07",
+    "observance_day": "Saturday"
+  },
+  {
+    "name": "National Day",
+    "year": "2025",
+    "date": "2025-08-09",
+    "original_day": "Saturday",
+    "observance": "2025-08-09",
+    "observance_day": "Saturday"
+  },
+  {
+    "name": "Deepavali",
+    "year": "2025",
+    "date": "2025-10-20",
+    "original_day": "Monday",
+    "observance": "2025-10-20",
+    "observance_day": "Monday"
+  },
+  {
+    "name": "Christmas Day",
+    "year": "2025",
+    "date": "2025-12-25",
+    "original_day": "Thursday",
+    "observance": "2025-12-25",
+    "observance_day": "Thursday"
+  }
+]
